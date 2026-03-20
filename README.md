@@ -1,2 +1,3 @@
-# lite-news-aggregator-2okm
-Automated issue comment bot repository
+# Lite News Aggregator 2Okm
+
+Automated issue comment bot repository.
